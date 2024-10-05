@@ -11,7 +11,8 @@ include("php/query.php");
                             <div class="ms-3">
                                 <p class="mb-2">Today Sale</p>
                                 <h6 class="mb-0">$1234</h6>
-                            </div>
+                            </div>`
+                            7`
                         </div>
                     </div>
                     <div class="col-sm-6 col-xl-3">
